@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chetali-1004
-- 👀 I’m interested in open source contributions
 - 🌱 I’m currently learning Java, Web Development
 - 📫 How to reach me: You can mail me at goyalchetali123@gmail.com
 
