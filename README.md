@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm Chetali Goyal, a final-year student at the LNM Institute of Information Technology, pursuing a B.Tech in Electronics and Communication Engineering. I have a strong passion for solving real-world problems through technology and am always eager to learn and grow in the field of software development.<br><br><br>Achievements<br>1. Top 20 @ Flipkart Grid 6.0<br>2. Former SWE Intern'24 @ Microsoft India (R&D) Pvt. Ltd.<br>3. Finalist @ Bajaj HackRx 5.0<br><br>
+Welcome to my GitHub profile! I'm Chetali Goyal, a final-year student at the LNM Institute of Information Technology, pursuing a B.Tech in Electronics and Communication Engineering. I have a strong passion for solving real-world problems through technology and am always eager to learn and grow in the field of software development.<br><br><br>Achievements<br>1. Top 20 @ Flipkart Grid 6.0<br>2. Former SWE Intern'24 @ Microsoft India (R&D) Pvt. Ltd.<br>3. Top 7 @ Bajaj HackRx 5.0<br><br>
 
 
 ## 🌐 Socials:
